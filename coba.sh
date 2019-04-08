@@ -53,6 +53,6 @@ then
 clear
 echo "\033[31;1m"
 toilet -f slant "DDos"
-cd 3
-python2 3.py
+cd 
+python2 tool.py
 fi
