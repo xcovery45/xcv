@@ -18,7 +18,8 @@ sleep 2
 cd tool
 php telkomsel.php
 echo "ketik ctrl+c untuk exit"
-python2 readme
+python2 read
+
 clear
 
 fi
